@@ -1,8 +1,8 @@
-# NAME
+# spigot-debug
 
 ## About
 
-*
+* maven plugin for debug spigot
 
 ## Requirement
 
